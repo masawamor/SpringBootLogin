@@ -1,3 +1,3 @@
-# SpringBootLogin
+# SpringBoot Bind & Validation
 
 バリデーションサンプル
